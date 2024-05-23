@@ -1,8 +1,8 @@
 # Perlin-Noise-Algorithm-Python-Implementation
 ![](https://github.com/aleksgaleksiev/Perlin-Noise-Algorithm-Python-Implementation/blob/main/Figures/PerlinClouds.gif) ![](https://github.com/aleksgaleksiev/Perlin-Noise-Algorithm-Python-Implementation/blob/main/Figures/PerlinCurtain.gif) ![](https://github.com/aleksgaleksiev/Perlin-Noise-Algorithm-Python-Implementation/blob/main/Figures/PerlinNoise.gif) ![](https://github.com/aleksgaleksiev/Perlin-Noise-Algorithm-Python-Implementation/blob/main/Figures/PerlinImage.png)
 
-This is a project given as an assignment for an online course. The project is a jupyter notebook which gives an explanation behind the algorithm of generating Perlin noise 
-and shows a Python implementation of the algorithm which generates images and animations of Perlin noise. I hope this can
+This is a project was given to me as an assignment for an online course. The project is a jupyter notebook which gives an explanation behind the algorithm of generating Perlin noise 
+and shows a Python implementation of the algorithm which generates images and animations of Perlin noise. I hope this can prove useful to anyone who comes across this and might be searching for information on coding up their own Perlin noise generators.
 
 The four figures above were animations and an image created by the Python code.
 The figures from left to right are a Perlin noise animation with 100 frames that resembles clouds, animation of 50 frames of Perlin noise which is similar to a red waving curtain, a three octave Perlin noise animation with 100 frames and an image of black and white Perlin noise.
