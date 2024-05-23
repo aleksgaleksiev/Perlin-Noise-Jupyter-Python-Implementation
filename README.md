@@ -14,10 +14,7 @@ https://docs.anaconda.com/free/anaconda/install/index.html#:~:text=Operating%20s
 
 https://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html
 
-After you have Anaconda and Jupyter Lab installed, a quick Google search will show you how to open notebooks
-
-https://jupyterlab.readthedocs.io/en/4.2.x/getting_started/starting.html
-
+After you have Anaconda and Jupyter Lab installed, a quick Google search will show you how to open notebooks.
 
 
 
